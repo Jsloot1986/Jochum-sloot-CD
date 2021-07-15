@@ -38,9 +38,4 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           port: ${{ secrets.PORT }}
           script: |
-            cd /var/www/
-            mkdir Jochum-sloot-CD
-            cd Jochum-sloot-CD
-            git clone git@github.com:Jsloot1986/Jochum-sloot-CD.git
-            echo 'Deployment succesfull to digital ocean'
-            ls -al
+            ./update.sh
