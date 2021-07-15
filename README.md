@@ -1,3 +1,6 @@
+# status-badge
+[![Python package](https://github.com/Jsloot1986/Jochum-sloot-CD/actions/workflows/main.yml/badge.svg?branch=master&event=deployment_status)](https://github.com/Jsloot1986/Jochum-sloot-CD/actions/workflows/main.yml)
+
 # Benoem 3 componenten van mijn oplossing
 *GITHUB ACTIONS*
 Github Actions is een manier om je workflow the automatiseren, customize en uittevoeren in je eigen repository.
